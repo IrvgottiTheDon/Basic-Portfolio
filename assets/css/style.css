@@ -11,7 +11,7 @@ header {
 section#main_content {
     border: 1px blue solid;
     height: 600px;
-    background-image: url("../images/img/img.jpeg");
+    background-image: url("../images/img.jpeg");
    
 }
 
@@ -59,4 +59,13 @@ ul li a {
     text-decoration: none;
     margin: 20px;
     line-height: 5em;
+}
+.projectWrapper{
+    display: inline-block;
+}
+.projectWrapper p {
+    width: 100%;
+    font-weight: bold;
+    position: fix;
+    text-align: center;
 }
