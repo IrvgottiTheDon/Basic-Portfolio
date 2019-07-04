@@ -11,11 +11,14 @@ header {
 section#main_content {
     border: 1px blue solid;
     height: 600px;
+    background-image: url("../images/img/img.jpeg");
    
 }
 
 .maincontentwrapper {
     padding: 50px;
+    background-color: rgba(255,255,255,0.5);
+    border: 3px solid grey;
 }
 
 footer {
